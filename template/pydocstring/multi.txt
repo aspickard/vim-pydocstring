@@ -1,4 +1,8 @@
 """{{_header_}}
+{{_indent_}}Args:
+{{_nested_indent_}}{{_arg_}} (type):
 
-:param {{_args_}}:
+{{_indent_}}Returns:
+
+{{_indent_}}Raises:
 """
